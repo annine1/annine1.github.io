@@ -10,3 +10,6 @@ We are a welcoming and open church that encourages people to come and share in t
 
 ### Our Values
 We are committed to living out the values of the gospel of Jesus Christ. Our mission is to love God, love others, and share the good news of Jesus Christ.
+
+#### Love | Workship
+We are committed to loving God and loving others, and to be known for our love for one another.
