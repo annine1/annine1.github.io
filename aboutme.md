@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: A Place For You
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+At City Church , we value connection and community. Our teachings are built around connecting people to each other and to God.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+We are a welcoming and open church that encourages people to come and share in the love of Jesus. Come join our community and grow in your faith alongside others who have the same beliefs and values.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Our Values
+We are committed to living out the values of the gospel of Jesus Christ. Our mission is to love God, love others, and share the good news of Jesus Christ.
