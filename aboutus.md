@@ -4,7 +4,7 @@ title: About Us
 subtitle: A Place For You
 ---
 
-At City Church , we value connection and community. Our teachings are built around connecting people to each other and to God.
+At City Church, we value connection and community. Our teachings are built around connecting people to each other and to God.
 
 We are a welcoming and open church that encourages people to come and share in the love of Jesus. Come join our community and grow in your faith alongside others who have the same beliefs and values.
 
