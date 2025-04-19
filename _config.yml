@@ -40,6 +40,8 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 # avatar: "/assets/img/avatar-icon.png"
 avatar: "/assets/img/4.png"
+# cover image
+cover-img: /assets/img/path.jpg
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
