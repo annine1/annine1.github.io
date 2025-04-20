@@ -21,8 +21,8 @@ author: City Church
 
 navbar-links:
   About Us: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  # Resources:
+    # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
   Staff&Leaders: 
@@ -49,7 +49,6 @@ round-avatar: true
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-# title-img: "/assets/img/avatar-icon.png"
 
 
 #####################################
@@ -70,11 +69,11 @@ social-network-links:
   # whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
- linkedin:  #daattali
+ # linkedin:  daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: #deanat78
+ # instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
