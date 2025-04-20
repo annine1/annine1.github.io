@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Church
+title: City Church
 
 # Your name to show in the footer
 author: City Church
@@ -30,7 +30,7 @@ navbar-links:
      # We’re here to serve you!
      # Our dedicated team of pastors and church staff are here to provide spiritual guidance and support, as well as resources to help you on your faith journey.
   Our Calendar: 
-  # Meet us every Sunday at 2:00 p.m   
+  Meet us every Sunday at 2:00 p.m   
 
 ################
 # --- Logo --- #
@@ -41,14 +41,17 @@ navbar-links:
 # avatar: "/assets/img/avatar-icon.png"
 avatar: "/assets/img/4.png"
 # cover image
-cover-img: "/assets/img/path.jpg"
+# cover-img: "/assets/img/path.jpg"
+cover-image: ""
+
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+# title-img: /path/to/image
+avatar: "/assets/img/4.png"
 
 
 #####################################
