@@ -30,7 +30,7 @@ navbar-links:
      # We’re here to serve you!
      # Our dedicated team of pastors and church staff are here to provide spiritual guidance and support, as well as resources to help you on your faith journey.
   Our Calendar: 
-  Meet us every Sunday at 2:00 p.m   
+  # Meet us every Sunday at 2:00 p.m   
 
 ################
 # --- Logo --- #
@@ -41,7 +41,7 @@ navbar-links:
 # avatar: "/assets/img/avatar-icon.png"
 avatar: "/assets/img/4.png"
 # cover image
-cover-img: /assets/img/path.jpg
+cover-img: "/assets/img/path.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
